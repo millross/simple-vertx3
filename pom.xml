@@ -18,7 +18,7 @@
     <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-core</artifactId>
-      <version>3.0.0-milestone2</version>
+      <version>3.0.0-milestone4</version>
     </dependency>
   </dependencies>
 
